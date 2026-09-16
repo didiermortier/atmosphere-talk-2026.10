@@ -10,7 +10,7 @@ App store / directory for AT Protocol Atmosphere apps. Lists apps by category, p
 
 ## Key Information Extracted
 
-- 150+ apps across categories: Social (72), Developer (29), Games (23), Publishing (23), Productivity (22), Work (18), Community (16), Audio (15), Bookmarks (13), and more
+- **277 curated app listings** across categories: Social (72), Developer (29), Games (23), Publishing (23), Productivity (22), Work (18), Community (16), Audio (15), Bookmarks (13), and more
 - Popular apps: Witchsky, RPG Actor, Mu, npmx, Sifa ID, PDS MOOver
 - Notable new apps: ATkuzu (puzzles), Tempo (music sharing), shelf.cafe (link aggregator)
 - One account, same identity across all apps

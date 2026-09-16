@@ -10,13 +10,23 @@ So where are we right now? The AT Protocol ecosystem in 2026 is vibrant, growing
 
 **A thriving app ecosystem**
 
-The Atmosphere now has hundreds of apps. The AT Store lists over 150 apps across categories: social, games, publishing, productivity, developer tools, bookmarks, audio, and more.
+The Atmosphere now has hundreds of apps. The AT Store lists 277 curated apps across categories: social, developer tools, games, publishing, productivity, and more.
 
 Bluesky is the biggest app, but it is far from the only one. Let me highlight some of the most interesting projects.
 
-**Social apps: mu and EuroSky**
+**mu.social and EuroSky**
 
-EuroSky is the biggest European PDS provider. It is GDPR-compliant, hosted in Germany, and run as a non-profit foundation. They launched their own app called mu, a Twitter-like platform that has become one of the most popular Atmosphere apps. If you are European and care about data sovereignty, EuroSky is where you want your account.
+EuroSky is the biggest European PDS provider. It is run by Stichting Modal, a non-profit foundation based in the Netherlands. They provide the infrastructure — your account, your data, your PDS. On top of that, they built mu.social, a social app that is essentially a fork of the Bluesky app. Because Bluesky is fully open source, the EuroSky team took the code, adapted it for their European audience, and built on top of it. That is something worth highlighting for developers in this room: the protocol and the apps are open, so anyone can fork and build their own version.
+
+mu.social has become one of the most popular Atmosphere apps. If you are European and care about data sovereignty, EuroSky is where you want your account, and mu.social is where you can use it.
+
+**The non-profit model matters**
+
+EuroSky is part of a larger trend in the ecosystem. The AT Protocol itself is not a company — it is an open standard that is being handed to the IETF for standardisation. Bluesky is a public benefit company, but it is separate from the protocol.
+
+There are good examples of this non-profit model working well elsewhere. Signal is fully non-profit — no shareholders, no investors, just a mission. Proton has a non-profit foundation behind its for-profit services. Even OpenAI, however debatable its current state, started with a non-profit structure.
+
+The point is: an open source, non-profit, or foundation-backed project is not automatically better because it is European or worse because it is American. What matters is that the code is open, the data is portable, and no single entity controls the network.
 
 **PopFeed: your media library, yours forever**
 
@@ -38,15 +48,17 @@ What ties them all together is a single login. You use the same @handle everywhe
 
 **European leadership**
 
-Europe is playing a major role in the Atmosphere. EuroSky, mu, PDS MOOver, Sifa ID, Tangled, Margin, and many more apps are built and hosted in Europe, with European privacy standards. This matters because it shows that the AT Protocol is not just an American project. It is genuinely global, and European developers are leading the way on privacy, portability, and user rights.
+Europe is playing a major role in the Atmosphere. EuroSky, mu.social, PDS MOOver, Sifa ID, Tangled, Margin, and many more apps are built and hosted in Europe, with European privacy standards. This matters because it shows that the AT Protocol is not just an American project. It is genuinely global, and European developers are leading the way on privacy, portability, and user rights.
 
 ## The Neutral
 
 **Private posts are coming**
 
-One thing the protocol cannot do yet is private posts. Everything on the AT Protocol is public by design. The data is open, accessible, and signed. That is a feature for developers building on the firehose, but it is a limitation for users who want to share something privately.
+One thing the protocol cannot do yet is private posts. Everything on the AT Protocol is public by design. That is a feature for developers building on the firehose, but it is a limitation for users who want to share something privately.
 
-Bluesky recently announced AT Protocol Spaces, which will add private posts and group conversations to the protocol. It is in alpha now. When it ships, it will be a major milestone — the protocol will support both public and private communication, all built on the same open infrastructure.
+AT Protocol Spaces is now in alpha. This will add private posts, group conversations, and membership-based communities to the protocol. Toni Schneider, Bluesky's CEO, said: "Once we enable private data, it is like 10 or 100 times the number of use cases we can serve."
+
+If they figure this out, it changes everything. The protocol will support both public and private communication, all built on the same open infrastructure.
 
 ## The Bad
 
@@ -66,7 +78,7 @@ This is both a problem and an opportunity. It means there is no platform tax. No
 
 **Discovery is still early**
 
-With hundreds of apps, finding the right one is not always easy. The AT Store helps, but there is no app store review process, no quality control, and no curation. Some apps are polished, some are rough. Users have to do the work of figuring out which apps are good.
+With 277 apps, finding the right one is not always easy. The AT Store helps, but there is no app store review process, no quality control, and no curation. Some apps are polished, some are rough. Users have to do the work of figuring out which apps are good.
 
 **W Social: a cautionary tale**
 
