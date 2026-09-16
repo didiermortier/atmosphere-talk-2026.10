@@ -16,7 +16,7 @@ But the final straw was Meta AI being pushed into WhatsApp. I did not want Meta 
 
 **What I switched to**
 
-For messaging, Signal is the best and most secure platform out there. That is my daily driver. That said, I need to be honest: my girlfriend and I have been together for about six months, and she uses Telegram and does not want to move to Signal. So Telegram is the one exception in my life. I am not against Telegram - I am here on Telegram myself - but I prefer Signal. And for the people who refuse to let go of iMessage, I use that too. Apple is still a big tech company, but sometimes you have to pick the best of the evils.
+For messaging, Signal is the best and most secure platform out there. That is my daily driver. That said, I need to be honest: my girlfriend and I have been together for about six months, and she uses Telegram and does not want to move to Signal. So Telegram is the one exception in my life. I am not against Telegram - you guys have the group chat there - but I prefer Signal. And for the people who refuse to let go of iMessage, I use that too. Apple is still a big tech company, but sometimes you have to pick the best of the evils.
 
 For social media, I switched to Bluesky. That is where I discovered the AT Protocol. I followed EuroSky closely, the European PDS provider, and I started engaging with the community. That is how I became an advocate for the open social web.
 
