@@ -22,7 +22,7 @@
 
 | Source | What It Covers | Used For |
 |--------|---------------|----------|
-| [atstore.fyi](atstore.fyi.md) | App directory | 150+ Atmosphere apps, categories |
+| [atstore.fyi](atstore.fyi.md) | App directory | 277 Atmosphere apps, categories |
 | [eurosky.social](eurosky.social.md) | European PDS portal | EuroSky, mu, EU leadership |
 | [mu.social](mu.social.md) | EuroSky's Twitter-like app | Popular Atmosphere app |
 | [popfeed.social](popfeed.social.md) | Media reviews platform | Data portability example |

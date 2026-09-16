@@ -20,7 +20,7 @@ This is a fundamentally different approach. Traditional social media decides wha
 
 For parents and schools, this matters. Imagine a school social network where students own their data, where the feed is chronological, where there are no ads, and where the community sets the rules. That is possible on the Atmosphere. The school runs its own PDS, parents have control, and when students graduate, they take their data with them.
 
-And if one app introduces an algorithm you do not like? You move to another app. Your data, your followers, your posts — they follow you. No other platform offers that.
+And if one app introduces an algorithm you do not like? You move to another app. Your data, your followers, your posts - they follow you. No other platform offers that.
 
 **Bridge to the next chapter**
 

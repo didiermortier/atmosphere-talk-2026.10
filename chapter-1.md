@@ -10,13 +10,13 @@ Working at OpenProvider was actually an eye-opener in a way I did not expect. I 
 
 **Why I quit Meta**
 
-The decision to leave Meta was not sudden. It built up over time. I was spending too much time on Instagram, letting the algorithm feed me endless content, mindlessly scrolling through stuff that did not matter. It was eating my time without me even noticing. The ads, the noise, the feeling of being the product instead of the person — it became too much.
+The decision to leave Meta was not sudden. It built up over time. I was spending too much time on Instagram, letting the algorithm feed me endless content, mindlessly scrolling through stuff that did not matter. It was eating my time without me even noticing. The ads, the noise, the feeling of being the product instead of the person - it became too much.
 
 But the final straw was Meta AI being pushed into WhatsApp. I did not want Meta training its AI on my private conversations. That was the line for me. So I deleted WhatsApp, Instagram, and Facebook. Not as a trial run, not as an experiment. I was done. That was about a year and a half ago, and I have not looked back.
 
 **What I switched to**
 
-For messaging, Signal is the best and most secure platform out there. That is my daily driver. That said, I need to be honest: my girlfriend and I have been together for about six months, and she uses Telegram and does not want to move to Signal. So Telegram is the one exception in my life. I am not against Telegram — I am here on Telegram myself — but I prefer Signal. And for the people who refuse to let go of iMessage, I use that too. Apple is still a big tech company, but sometimes you have to pick the best of the evils.
+For messaging, Signal is the best and most secure platform out there. That is my daily driver. That said, I need to be honest: my girlfriend and I have been together for about six months, and she uses Telegram and does not want to move to Signal. So Telegram is the one exception in my life. I am not against Telegram - I am here on Telegram myself - but I prefer Signal. And for the people who refuse to let go of iMessage, I use that too. Apple is still a big tech company, but sometimes you have to pick the best of the evils.
 
 For social media, I switched to Bluesky. That is where I discovered the AT Protocol. I followed EuroSky closely, the European PDS provider, and I started engaging with the community. That is how I became an advocate for the open social web.
 

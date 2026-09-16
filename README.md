@@ -8,7 +8,7 @@ A presentation for developers in Sabadell. Five chapters.
 1. Personal Story: From Meta to Bluesky
 2. The Story So Far: Timeline + What is AT Protocol
 3. The Ecosystem Today: Good & Bad
-4. Chat Control & EU Regulation
+4. Social Media and Young People
 5. The Future
 
 **Language:** Drafted in English, to be translated to Spanish.

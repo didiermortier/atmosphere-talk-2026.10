@@ -1,4 +1,4 @@
-# AT Protocol Presentation — Sabadell
+| # The Atmosphere: Building the Open Social Web
 
 **Audience:** Developers  
 **Language:** Spanish (drafted in English, translated at the end)  
@@ -12,7 +12,7 @@
 Who I am, my background, quitting Meta products, switching to Signal, discovering Bluesky.
 
 ### 2 — The Story So Far: Timeline + What is AT Protocol
-From 2019 Twitter skunkworks to 40M+ users today. The protocol explained in between the timeline milestones: DIDs, PDS, relays, Lexicons. The Open Social philosophy. Why it's different from ActivityPub. The Atmosphere ecosystem.
+From 2019 Twitter skunkworks to 46M+ users today. The protocol explained in between the timeline milestones: DIDs, PDS, relays, Lexicons. The Open Social philosophy. Why it's different from ActivityPub. The Atmosphere ecosystem.
 
 ### 3 — The Ecosystem Today: Good & Bad (TBD)
 What's working (apps, feeds, communities). What's struggling (scale, moderation, adoption). Real projects bridging to AT Protocol.
@@ -25,4 +25,4 @@ Roadmap, what's coming. Opportunities for developers. Call to action.
 
 ---
 
-> Outline is a living document — will evolve as we build content.
+> Outline is a living document, will evolve as we build content.
