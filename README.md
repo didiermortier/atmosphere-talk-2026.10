@@ -1,10 +1,8 @@
 # The Atmosphere: Building the Open Social Web
 
-How the AT Protocol changes social media, what's happening in Europe, and why developers should care.
+The Atmosphere is a new open network of apps that all work together. Bluesky is the most well known app, but there are many more. This presentation covers the ecosystem, how it started, what is happening in Europe, Chat Control, and the future.
 
----
-
-A presentation for developers in Sabadell. Five chapters covering the AT Protocol, the Atmosphere ecosystem, Chat Control in the EU, and the future of open social media.
+A presentation for developers in Sabadell. Five chapters.
 
 **Chapters:**
 1. Personal Story: From Meta to Bluesky

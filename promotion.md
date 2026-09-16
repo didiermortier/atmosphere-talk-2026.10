@@ -6,7 +6,7 @@
 
 ## Descripcion breve
 
-El AT Protocol cambia como funcionan las redes sociales. Tus datos son tuyos, no de la plataforma. Puedes moverte sin perder nada. En esta charla explico que es el protocolo, como empezo, que proyectos hay en Europa, que esta pasando con el Chat Control, y por que los developers deberian mirarlo. Tambien cuento mi historia: deje Meta, me pase a Signal y Bluesky, y ahora ayudo a construir una comunidad AT Protocol en Barcelona.
+El ecosistema Atmosphere (lo que antes se llamaba AT Protocol) cambia como funcionan las redes sociales. Tus datos son tuyos, no de la plataforma. Bluesky es la aplicacion mas conocida, pero hay muchas mas. En esta charla explico que es el ecosistema, como empezo, que proyectos hay en Europa, que esta pasando con el Chat Control, y por que los developers deberian mirarlo. Tambien cuento mi historia: deje Meta, me pase a Signal y Bluesky, y ahora ayudo a construir una comunidad Atmosphere en Barcelona.
 
 ## Portada
 
@@ -15,21 +15,21 @@ Texto centrado: "The Atmosphere: Building the Open Social Web". Fondo oscuro. Na
 ## Perfil redes
 
 Didier Mortier
-Construyendo comunidad AT Protocol en Barcelona. atproto.barcelona
+Construyendo comunidad Atmosphere en Barcelona. atproto.barcelona
 
 ## Pilulas
 
 **1**
-Tus datos en Instagram o X no son tuyos. Si te vas, lo pierdes. El AT Protocol funciona diferente: tu identidad y tus posts se mueven contigo. En la charla explico como.
+Tus datos en Instagram o X no son tuyos. Si te vas, lo pierdes. El ecosistema Atmosphere funciona diferente: tu identidad y tus posts se mueven contigo. Bluesky es la puerta de entrada. En la charla explico como funciona todo.
 
 **2**
-Hay decenas de apps construidas sobre el AT Protocol en Europa. EuroSky, mu.social, Tangled, PopFeed, Sifa ID. Algunas estan hechas en Barcelona. Otras en Amsterdam, Berlin, Paris. El ecosistema crece.
+Hay decenas de aplicaciones en el ecosistema Atmosphere hechas en Europa. mu.social, PopFeed, Tangled, Sifa ID. Algunas estan hechas en Barcelona. Otras en Berlin, Paris, Amsterdam. El ecosistema crece.
 
 **3**
-La UE aprobo Chat Control 1.0 en julio. Permite escanear mensajes privados sin orden judicial. El AT Protocol ofrece una alternativa: tu eliges quien aloja tus datos y puedes cambiarlo si no te gustan las reglas.
+La UE aprobo Chat Control 1.0 en julio. Permite escanear mensajes privados sin orden judicial. El ecosistema Atmosphere ofrece una alternativa: tu eliges quien aloja tus datos y puedes cambiarlo si no te gustan las reglas.
 
 **4**
-Si eres developer, el AT Protocol te permite construir una red social sin pedir permiso. Hay 46 millones de usuarios, el firehose es abierto, los SDKs funcionan. En la charla veo varios ejemplos.
+Si eres developer, construir en el ecosistema Atmosphere te da acceso a 46 millones de usuarios sin pedir permiso a nadie. Las herramientas son abiertas. En la charla veo varios ejemplos de como funciona.
 
 **5**
-Deje Instagram, WhatsApp y Facebook. Me pase a Signal. Descubri Bluesky y el AT Protocol. Ahora organizo una comunidad en Barcelona para quien quiera explorar esto. Eso cuento en la charla.
+Deje Instagram, WhatsApp y Facebook. Me pase a Signal. Descubri Bluesky y el ecosistema Atmosphere. Ahora organizo una comunidad en Barcelona para quien quiera explorar esto. Eso cuento en la charla.
