@@ -35,17 +35,12 @@
 | [atproto-spaces-alpha](atproto-spaces-alpha.md) | Private posts announcement | Coming private spaces |
 | [bluesky-monetisation-analysis](bluesky-monetisation-analysis.md) | Business analysis | Monetisation challenges |
 
-## Chapter 4 — Chat Control & EU Regulation
+## Chapter 4 — Social Media and Young People
 
 | Source | What It Covers | Used For |
 |--------|---------------|----------|
-| [didiermortier.eu — Chat Control article](didiermortier.eu.md) | Personal perspective | Advocacy, personal action |
-| [fightchatcontrol.eu](fightchatcontrol-overview.md) | Overview & timeline | CC 1.0 vs 2.0, current status |
-| [chat-control-techpolicy](chat-control-techpolicy.md) | Cross-border analysis | Client-side scanning, US implications |
-| [chat-control-brussels-signal](chat-control-brussels-signal.md) | News report | July 9 vote details |
-| [eurosky-appview](eurosky-appview.md) | Alternative app view | Redundancy, European sovereignty |
 | [eu-kids-act-social-media-ban](eu-kids-act-social-media-ban.md) | EU age restriction proposals | Under-16 ban, KIDS Act |
-| [wsocial-critique](wsocial-critique.md) | W Social analysis | Cautionary tale, closed source |
+| [eurosky-appview](eurosky-appview.md) | Alternative app view | Redundancy, European sovereignty |
 
 ## Chapter 5 — The Future
 

@@ -17,8 +17,8 @@ From 2019 Twitter skunkworks to 40M+ users today. The protocol explained in betw
 ### 3 — The Ecosystem Today: Good & Bad (TBD)
 What's working (apps, feeds, communities). What's struggling (scale, moderation, adoption). Real projects bridging to AT Protocol.
 
-### 4 — Chat Control & EU Regulation (TBD)
-What's happening in the EU (Chat Control, DMA). Why decentralisation matters now. AT Protocol as an alternative to walled gardens.
+### 4 — Social Media and Young People: Why the Atmosphere Is Better
+Social media restrictions for under-16s (EU KIDS Act, France, Australia). Why the Atmosphere is a better alternative — no forced algorithms, choice, portability.
 
 ### 5 — The Future (TBD)
 Roadmap, what's coming. Opportunities for developers. Call to action.

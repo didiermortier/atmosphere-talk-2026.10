@@ -1,6 +1,6 @@
 # The Atmosphere: Building the Open Social Web
 
-The Atmosphere is a new open network of apps that all work together. Bluesky is the most well known app, but there are many more. This presentation covers the ecosystem, how it started, what is happening in Europe, Chat Control, and the future.
+The Atmosphere is a new open network of apps that all work together. Bluesky is the most well known app, but there are many more. This presentation covers the ecosystem, how it started, what is happening in Europe with social media regulation for young people, and what comes next.
 
 A presentation for developers in Sabadell. Five chapters.
 

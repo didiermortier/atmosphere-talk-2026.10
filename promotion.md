@@ -6,7 +6,7 @@
 
 ## Descripcion breve
 
-El ecosistema Atmosphere (lo que antes se llamaba AT Protocol) cambia como funcionan las redes sociales. Tus datos son tuyos, no de la plataforma. Bluesky es la aplicacion mas conocida, pero hay muchas mas. En esta charla explico que es el ecosistema, como empezo, que proyectos hay en Europa, que esta pasando con el Chat Control, y por que los developers deberian mirarlo. Tambien cuento mi historia: deje Meta, me pase a Signal y Bluesky, y ahora ayudo a construir una comunidad Atmosphere en Barcelona.
+El ecosistema Atmosphere (lo que antes se llamaba AT Protocol) cambia como funcionan las redes sociales. Tus datos son tuyos, no de la plataforma. Bluesky es la aplicacion mas conocida, pero hay muchas mas. En esta charla explico que es el ecosistema, como empezo, que proyectos hay en Europa, las nuevas restricciones de redes sociales para menores, y por que los developers deberian mirarlo. Tambien cuento mi historia: deje Meta, me pase a Signal y Bluesky, y ahora ayudo a construir una comunidad Atmosphere en Barcelona.
 
 ## Portada
 
@@ -26,7 +26,7 @@ Tus datos en Instagram o X no son tuyos. Si te vas, lo pierdes. El ecosistema At
 Hay decenas de aplicaciones en el ecosistema Atmosphere hechas en Europa. mu.social, PopFeed, Tangled, Sifa ID. Algunas estan hechas en Barcelona. Otras en Berlin, Paris, Amsterdam. El ecosistema crece.
 
 **3**
-La UE aprobo Chat Control 1.0 en julio. Permite escanear mensajes privados sin orden judicial. El ecosistema Atmosphere ofrece una alternativa: tu eliges quien aloja tus datos y puedes cambiarlo si no te gustan las reglas.
+El ecosistema Atmosphere ofrece una alternativa real a las redes sociales tradicionales. Tu eliges quien aloja tus datos y puedes cambiarlo si no te gustan las reglas.
 
 **4**
 Si eres developer, construir en el ecosistema Atmosphere te da acceso a 46 millones de usuarios sin pedir permiso a nadie. Las herramientas son abiertas. En la charla veo varios ejemplos de como funciona.

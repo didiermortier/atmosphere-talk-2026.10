@@ -98,4 +98,4 @@ That is normal. Every platform goes through this. The difference here is that no
 
 **Bridge to the next chapter**
 
-And that brings us to why any of this matters beyond the tech itself. Because while the Atmosphere is growing, there are forces in the European Union that threaten to roll back everything we have fought for — encryption, privacy, and the right to communicate freely. Let us talk about Chat Control.
+And that brings us to why this matters beyond the tech. Around the world, countries are starting to restrict social media for young people. The Atmosphere offers a better alternative. Let me explain.
