@@ -56,7 +56,9 @@ Abramov calls this "a social filesystem." Your posts, likes, follows are like fi
 
 In February 2024, Bluesky opened to the public. The growth curve went vertical. People who had been waiting on the waitlist flooded in. The conversation shifted from "what is Bluesky" to "is this actually a Twitter replacement?"
 
-This is also when the protocol started getting serious attention from developers outside Bluesky. The firehose was open. Anyone could build feeds, analytics, and tools. Independent PDS providers like EuroSky launched, giving European users a GDPR-compliant hosting option. The ecosystem started to feel real.
+Then something unexpected happened. In November 2024, Trump won the US presidential election. Millions of users fled X. Bluesky gained one million new users in a single week. Traffic surged by 500 percent. Overnight, Bluesky became the mainstream refuge for people who no longer felt welcome on X.
+
+This election boom pushed Bluesky past 25 million users by the end of 2024. The network had real scale.
 
 **Why it is different from ActivityPub**
 
@@ -66,11 +68,13 @@ The AT Protocol prioritizes account portability. On ActivityPub, if your server 
 
 The AT Protocol also handles scale differently. ActivityPub delivers messages between individual servers, which causes flooding when a popular account posts. The AT Protocol uses relays to aggregate activity efficiently, making global search and algorithmic feeds possible without overloading anyone.
 
-**2025 — The Ecosystem Explodes**
+**2025 — The Developer Ecosystem Explodes**
 
-By 2025, Bluesky had crossed 25 million users. But more importantly, the ecosystem of apps built on the protocol was growing fast.
+The real turning point for developers was March 2025, when the first AT Protocol-focused conference was held in Seattle: AtmosphereConf. This was the moment the protocol stepped out of Bluesky's shadow. Developers from outside Bluesky started building in earnest — not just custom feeds and clients, but full applications on their own PDSs.
 
-Atmosphere apps started appearing. Flashes for photo sharing, like Instagram. Germ for private messaging — the first end-to-end encrypted messenger on the protocol. PopFeed for sharing books, movies, and music. mu, a European-hosted Twitter-like app from EuroSky. Leaflet for blogging. Tangled for collaborative writing. Semble for communities. Blento for link-in-bio pages. And many more — games, event platforms, algorithm feeds.
+The firehose was open. Independent PDS providers like EuroSky launched, giving European users a GDPR-compliant hosting option. The ecosystem started to feel real.
+
+Atmosphere apps appeared quickly after the conference. Flashes for photo sharing, like Instagram. Germ for private messaging — the first end-to-end encrypted messenger on the protocol. PopFeed for sharing books, movies, and music. mu, a European-hosted Twitter-like app from EuroSky. Leaflet for blogging. Tangled for collaborative coding. Semble for communities. Blento for link-in-bio pages. And many more — games, event platforms, algorithm feeds.
 
 The common thread: one account works across all of them. You log in once and you are home everywhere. Your followers, your posts, your connections exist on the network, not inside any single app. If you do not like an app, you switch to another. Your data goes with you.
 
