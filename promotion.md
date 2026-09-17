@@ -25,7 +25,7 @@ Construyendo comunidad Atmosphere en Barcelona. atproto.barcelona
 Tus datos en Instagram o X no son tuyos. Si te vas, lo pierdes. El ecosistema Atmosphere funciona diferente: tu identidad y tus posts se mueven contigo. Bluesky es la puerta de entrada. En la charla explico como funciona todo.
 
 **2**
-Hay decenas de aplicaciones en el ecosistema Atmosphere hechas en Europa. mu.social, Tangled, Sifa ID, y mas. Communidades se formen en Barcelona. Otras en Berlin, Paris, Amsterdam. El ecosistema crece.
+Hay decenas de aplicaciones en el ecosistema Atmosphere hechas en Europa. mu.social, Tangled, Sifa ID, y mas. Comunidades se forman en Barcelona. Otras en Berlin, Paris, Amsterdam. El ecosistema crece.
 
 **3**
 El ecosistema Atmosphere ofrece una alternativa real a las redes sociales tradicionales. Tu eliges quien aloja tus datos y puedes cambiarlo si no te gustan las reglas.
