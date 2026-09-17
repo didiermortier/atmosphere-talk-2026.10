@@ -6,11 +6,7 @@
 
 ## Descripcion breve
 
-El ecosistema Atmosphere (lo que antes se llamaba AT Protocol) cambia como funcionan las redes sociales. Tus datos son tuyos, no de la plataforma. Bluesky es la aplicacion mas conocida, pero hay muchas mas. En esta charla explico que es el ecosistema, como empezo, que proyectos hay en Europa, las nuevas restricciones de redes sociales para menores, y por que los developers deberian mirarlo. Tambien cuento mi historia: deje Meta, me pase a Signal y Bluesky, y ahora ayudo a construir una comunidad Atmosphere en Barcelona.
-
-## Portada
-
-Texto centrado: "The Atmosphere: Building the Open Social Web". Fondo oscuro. Nada mas.
+El ecosistema Atmosphere (AT Protocol) cambia como funcionan las redes sociales. Tus datos son tuyos, no de la plataforma. Bluesky es la aplicacion mas conocida, pero hay muchas mas. En esta charla explico que es el ecosistema, como empezo, que proyectos hay en Europa, las nuevas restricciones de redes sociales para menores, y por que los developers deberian mirarlo. Tambien cuento mi historia: deje Meta, me pase a Signal y Bluesky, y ahora ayudo a construir una comunidad Atmosphere en Barcelona.
 
 ## Perfil redes
 
@@ -18,10 +14,10 @@ Didier Mortier
 Construyendo comunidad Atmosphere en Barcelona. atproto.barcelona
 
 **Links:**
-- Web: dmrt.eu
+- Web: didiermortier.eu
 - LinkedIn: https://linkedin.com/in/didiermortier
-- mu.social: https://mu.social/profile/didiermortier.eu
-- Bluesky: https://bsky.app/profile/didiermortier.eu
+- mu.social/Bluesky: https://mu.social/profile/didiermortier.eu
+
 
 ## Pilulas
 
@@ -29,7 +25,7 @@ Construyendo comunidad Atmosphere en Barcelona. atproto.barcelona
 Tus datos en Instagram o X no son tuyos. Si te vas, lo pierdes. El ecosistema Atmosphere funciona diferente: tu identidad y tus posts se mueven contigo. Bluesky es la puerta de entrada. En la charla explico como funciona todo.
 
 **2**
-Hay decenas de aplicaciones en el ecosistema Atmosphere hechas en Europa. mu.social, PopFeed, Tangled, Sifa ID. Algunas estan hechas en Barcelona. Otras en Berlin, Paris, Amsterdam. El ecosistema crece.
+Hay decenas de aplicaciones en el ecosistema Atmosphere hechas en Europa. mu.social, Tangled, Sifa ID, y mas. Communidades se formen en Barcelona. Otras en Berlin, Paris, Amsterdam. El ecosistema crece.
 
 **3**
 El ecosistema Atmosphere ofrece una alternativa real a las redes sociales tradicionales. Tu eliges quien aloja tus datos y puedes cambiarlo si no te gustan las reglas.
