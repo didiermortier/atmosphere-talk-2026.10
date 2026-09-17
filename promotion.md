@@ -10,8 +10,7 @@ El ecosistema Atmosphere (AT Protocol) cambia como funcionan las redes sociales.
 
 ## Perfil redes
 
-Didier Mortier
-Construyendo comunidad Atmosphere en Barcelona. atproto.barcelona
+Didier Mortier | Customer Success & Sales Leader. De soporte a retencion en SaaS y dominios. Construyendo comunidad Atmosphere en Barcelona.
 
 **Links:**
 - Web: didiermortier.eu
