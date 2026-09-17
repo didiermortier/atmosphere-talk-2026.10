@@ -17,6 +17,12 @@ Texto centrado: "The Atmosphere: Building the Open Social Web". Fondo oscuro. Na
 Didier Mortier
 Construyendo comunidad Atmosphere en Barcelona. atproto.barcelona
 
+**Links:**
+- Web: dmrt.eu
+- LinkedIn: https://linkedin.com/in/didiermortier
+- mu.social: https://mu.social/profile/didiermortier.eu
+- Bluesky: https://bsky.app/profile/didiermortier.eu
+
 ## Pilulas
 
 **1**
