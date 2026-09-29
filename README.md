@@ -2,6 +2,8 @@
 
 **[Open the deck](https://didiermortier.github.io/atmosphere-talk-2026.10/)** - runs in the browser, works on a phone or tablet, no install.
 
+This repository is also mirrored on Tangled, the social coding platform built on the AT Protocol: https://tangled.org/didiermortier.eu/atmosphere-talk-2026.10
+
 The Atmosphere is a new open network of apps that all work together. Bluesky is the most well known app, but there are many more. This presentation covers the ecosystem, how it started, what is happening in Europe with social media regulation for young people, and what comes next.
 
 A presentation for developers from Sabadell, gathering in Terrassa. Five chapters.
