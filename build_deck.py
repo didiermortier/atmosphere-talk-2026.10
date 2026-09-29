@@ -503,6 +503,16 @@ DECK_TEMPLATE = r"""<!doctype html>
   .idxgrid a:hover{border-color:var(--gold)}
   .idxgrid .id{color:var(--gold);font-weight:700;font-size:11px;letter-spacing:.1em}
 
+  @media (max-width:1100px){
+    .slide{padding:6vh 6vw 24vh}
+    .hud{height:auto;flex-wrap:wrap;row-gap:6px;padding:6px 12px 8px;justify-content:center}
+    .hud .grp{gap:8px;flex-wrap:wrap;justify-content:center}
+    .hud .grp:first-child{width:100%}
+    .hud button{padding:4px 10px}
+    .nav{bottom:80px}
+    .note{bottom:122px;max-height:30vh}
+    .hint{bottom:168px}
+  }
   @media print{
     body{overflow:visible}
     .slide{position:static;opacity:1;visibility:visible;transform:none;page-break-after:always;
