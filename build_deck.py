@@ -503,6 +503,8 @@ DECK_TEMPLATE = r"""<!doctype html>
   .idxgrid a:hover{border-color:var(--gold)}
   .idxgrid .id{color:var(--gold);font-weight:700;font-size:11px;letter-spacing:.1em}
 
+  .presenter .hint::after{content:' . presenter mode'}
+
   @media (max-width:1100px){
     .slide{padding:6vh 6vw 24vh}
     .hud{height:auto;flex-wrap:wrap;row-gap:6px;padding:6px 12px 8px;justify-content:center}
@@ -526,7 +528,7 @@ DECK_TEMPLATE = r"""<!doctype html>
 /*SLIDES*/
 <div class="note" id="note"><div class="lab" id="notelab">notes</div><div id="notetext"></div></div>
 <div class="idx" id="idx"><h3>Slides</h3><div class="idxgrid" id="idxgrid"></div></div>
-<div class="hint" id="hint">arrows or click to move . A+ / A- or + and - to resize text . N notes . S script . T timer . F fullscreen . Esc index</div>
+<div class="hint" id="hint">arrows or click to move . A+ / A- or + and - to resize text . T timer . F fullscreen . Esc index</div>
 <div class="bar" id="bar"></div>
 <div class="nav" id="nav">
   <button id="bprev" title="previous slide" aria-label="previous slide">&#8592;</button>
@@ -537,7 +539,7 @@ DECK_TEMPLATE = r"""<!doctype html>
   <div class="grp">
     <button id="ben" class="on">EN</button><button id="bes">ES</button>
     <button id="bminus" title="smaller text">A-</button><button id="bplus" title="bigger text">A+</button>
-    <button id="bnote">notes</button><button id="btimer">timer</button><button id="bfull">full</button>
+    <button id="btimer">timer</button><button id="bfull">full</button>
   </div>
 </div>
 <script>
@@ -557,6 +559,8 @@ DECK_TEMPLATE = r"""<!doctype html>
     if(noteOpen) renderNote();
     if(!showed){showed=true;setTimeout(function(){document.getElementById('hint').style.display='none';},4500);}
   }
+  var PRESENTER=(function(){try{return /(^|[?&])notes=1(&|$)/.test(location.search)||location.hash==='#notes';}catch(e){return false;}})();
+  if(PRESENTER){document.documentElement.classList.add('presenter');}
   var noteOpen=false;
   function renderNote(){
     var s=slides[i], lang=el.dataset.lang;
@@ -565,6 +569,7 @@ DECK_TEMPLATE = r"""<!doctype html>
     document.getElementById('note').classList.add('on');
   }
   function peek(on){
+    if(!PRESENTER)return;
     var n=document.getElementById('note');
     if(on){renderNote();}else if(!noteOpen){n.classList.remove('on');}
   }
@@ -595,10 +600,13 @@ DECK_TEMPLATE = r"""<!doctype html>
   document.getElementById('btimer').onclick=toggleTimer;
   document.getElementById('bplus').onclick=function(){setScale(tsc+0.1);};
   document.getElementById('bminus').onclick=function(){setScale(tsc-0.1);};
-  document.getElementById('bnote').onclick=function(){
-    noteOpen=!noteOpen;this.classList.toggle('on',noteOpen);
+  var bnote=document.getElementById('bnote');
+  function toggleNote(){
+    if(!PRESENTER)return;
+    noteOpen=!noteOpen;if(bnote)bnote.classList.toggle('on',noteOpen);
     if(noteOpen){renderNote();}else{document.getElementById('note').classList.remove('on');}
-  };
+  }
+  if(bnote)bnote.onclick=toggleNote;
   document.getElementById('bfull').onclick=function(){
     if(document.fullscreenElement){document.exitFullscreen();}else{document.documentElement.requestFullscreen();}
   };
@@ -621,8 +629,8 @@ DECK_TEMPLATE = r"""<!doctype html>
     else if(k==='Home'){show(0);} else if(k==='End'){show(slides.length-1);}
     else if(k==='Escape'){idx(!document.getElementById('idx').classList.contains('on'));}
     else if(k==='f'||k==='F'){document.getElementById('bfull').click();}
-    else if(k==='n'||k==='N'){peek(true);}
-    else if(k==='s'||k==='S'){document.getElementById('bnote').click();}
+    else if((k==='n'||k==='N')&&PRESENTER){peek(true);}
+    else if((k==='s'||k==='S')&&PRESENTER){toggleNote();}
     else if(k==='t'||k==='T'){toggleTimer();}
     else if(k==='r'||k==='R'){acc=0;t0=null;clearInterval(tick);tick=null;
       document.getElementById('btimer').classList.remove('on');renderTimer();}
@@ -630,7 +638,7 @@ DECK_TEMPLATE = r"""<!doctype html>
     else if(k==='+'||k==='='){setScale(tsc+0.1);} else if(k==='-'||k==='_'){setScale(tsc-0.1);}
     else if(k==='0'){setScale(1);}
   });
-  document.addEventListener('keyup',function(e){if(e.key==='n'||e.key==='N'){peek(false);}});
+  document.addEventListener('keyup',function(e){if((e.key==='n'||e.key==='N')&&PRESENTER){peek(false);}});
   document.addEventListener('click',function(e){
     if(e.target.closest('a')||e.target.closest('.hud')||e.target.closest('.nav')||e.target.closest('.idx')||e.target.closest('.note'))return;
     show(i+1);
