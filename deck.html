@@ -112,6 +112,12 @@
   .hud button{font:inherit;color:var(--sand);background:none;border:1px solid var(--line);
     border-radius:999px;padding:3px 11px;cursor:pointer}
   .hud button.on{color:#0C0C0F;background:var(--gold);border-color:var(--gold);font-weight:700}
+  .nav{position:fixed;left:50%;bottom:3px;transform:translateX(-50%);display:flex;gap:16px;z-index:7}
+  .nav button{width:86px;height:38px;display:grid;place-items:center;font-size:20px;line-height:1;
+    color:var(--ink);background:rgba(255,255,255,.09);border:1px solid var(--line);border-radius:11px;
+    cursor:pointer;-webkit-tap-highlight-color:transparent;touch-action:manipulation}
+  .nav button:active{background:var(--gold);border-color:var(--gold);color:#0C0C0F}
+  .nav button:disabled{opacity:.3}
   .bar{position:fixed;left:0;bottom:0;height:3px;background:var(--accent);width:0;z-index:7;
     transition:width .18s ease;opacity:.9}
   .hint{position:fixed;left:50%;bottom:58px;transform:translateX(-50%);font-size:12px;color:var(--sand);
@@ -135,7 +141,7 @@
     .slide{position:static;opacity:1;visibility:visible;transform:none;page-break-after:always;
       height:auto;min-height:60vh}
     .waves{opacity:.35}
-    .hud,.bar,.note,.idx,.hint{display:none !important}
+    .hud,.nav,.bar,.note,.idx,.hint{display:none !important}
   }
 </style>
 </head>
@@ -184,6 +190,10 @@
 <div class="idx" id="idx"><h3>Slides</h3><div class="idxgrid" id="idxgrid"></div></div>
 <div class="hint" id="hint">arrows or click to move . A+ / A- or + and - to resize text . N notes . S script . T timer . F fullscreen . Esc index</div>
 <div class="bar" id="bar"></div>
+<div class="nav" id="nav">
+  <button id="bprev" title="previous slide" aria-label="previous slide">&#8592;</button>
+  <button id="bnext" title="next slide" aria-label="next slide">&#8594;</button>
+</div>
 <div class="hud">
   <div class="grp"><span id="counter">1 / 1</span><span id="timer">00:00</span><span id="budget"></span></div>
   <div class="grp">
@@ -204,6 +214,8 @@
     try{history.replaceState(null,'','#'+(i+1));}catch(e){}
     document.getElementById('bar').style.width=((i)/(slides.length-1)*100)+'%';
     document.getElementById('budget').textContent='target '+slides[i].dataset.time;
+    document.getElementById('bprev').disabled=(i===0);
+    document.getElementById('bnext').disabled=(i>=slides.length-1);
     if(noteOpen) renderNote();
     if(!showed){showed=true;setTimeout(function(){document.getElementById('hint').style.display='none';},4500);}
   }
@@ -252,6 +264,8 @@
   document.getElementById('bfull').onclick=function(){
     if(document.fullscreenElement){document.exitFullscreen();}else{document.documentElement.requestFullscreen();}
   };
+  document.getElementById('bprev').onclick=function(e){if(e)e.stopPropagation();show(i-1);};
+  document.getElementById('bnext').onclick=function(e){if(e)e.stopPropagation();show(i+1);};
   // index
   var grid=document.getElementById('idxgrid');
   slides.forEach(function(s,n){
@@ -280,7 +294,7 @@
   });
   document.addEventListener('keyup',function(e){if(e.key==='n'||e.key==='N'){peek(false);}});
   document.addEventListener('click',function(e){
-    if(e.target.closest('a')||e.target.closest('.hud')||e.target.closest('.idx')||e.target.closest('.note'))return;
+    if(e.target.closest('a')||e.target.closest('.hud')||e.target.closest('.nav')||e.target.closest('.idx')||e.target.closest('.note'))return;
     show(i+1);
   });
   document.addEventListener('mousedown',function(e){if(e.button===2)show(i-1);});
