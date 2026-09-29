@@ -34,6 +34,7 @@
 | [margin.at](margin.at.md) | Web annotation | Innovative non-social app |
 | [atproto-spaces-alpha](atproto-spaces-alpha.md) | Private posts announcement | Coming private spaces |
 | [bluesky-monetisation-analysis](bluesky-monetisation-analysis.md) | Business analysis | Monetisation challenges |
+| [wsocial-critique](wsocial-critique.md) | Critical analysis of W Social | W Social cautionary tale |
 
 ## Chapter 4 — Social Media and Young People
 
@@ -53,6 +54,14 @@
 | [atproto-eu](atproto-eu.md) | European community hub | Events, members, growth |
 | [atproto-spaces-alpha](atproto-spaces-alpha.md) | Private data announcement | Protocol roadmap |
 
+## Reference — not used in the talk
+
+| Source | What It Covers | Status |
+|--------|---------------|--------|
+| [chat-control-techpolicy](chat-control-techpolicy.md) | Chat Control and US companies | Kept for reference, chapter 4 is now about age restrictions |
+| [chat-control-brussels-signal](chat-control-brussels-signal.md) | July 2026 vote outcome | Kept for reference |
+| [fightchatcontrol-overview](fightchatcontrol-overview.md) | Chat Control 1.0 vs 2.0 | Kept for reference |
+
 ---
 
-*Last updated: 2026-09-16*
+31 source files. *Last updated: 2026-09-28*

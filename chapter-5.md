@@ -18,7 +18,7 @@ Schneider compared this to Reddit: smaller, closed communities that are still co
 
 **The Atmosphere, not just Bluesky**
 
-Schneider also made a point that is worth repeating: Bluesky is two things. There is the Bluesky app, which is what most people use. But underneath there is the AT Protocol, and Bluesky is only one of over a thousand apps built on it.
+Schneider also made a point that is worth repeating: Bluesky is two things. There is the Bluesky app, which is what most people use. But underneath there is the AT Protocol, and Bluesky is only one of over a thousand apps in weekly use on the network.
 
 The whole point of Bluesky was to demonstrate that this open protocol could scale and attract other builders. The new CEO is now focused on making this distinction clearer. An Atmosphere account is not the same as a Bluesky account. The account is on the network. The apps are just windows into your data.
 
@@ -30,11 +30,11 @@ One of the biggest open questions has been how the ecosystem makes money. Schnei
 
 The idea is that if the network sends traffic to your newsletter or your store, and that traffic converts into subscribers or sales, the network gets a share. This is the same model that made WordPress into an ecosystem with thousands of businesses around it.
 
-The European momentum
+**The European momentum**
 
 Europe is where the energy is. AtmosphereConf, the unofficial gathering of the AT Protocol community, will hold its third edition in Spring 2027 somewhere in Europe. The first two editions were smaller community events, but the third one coming to Europe signals where the growth is happening.
 
-In Barcelona, we are building our own community. Atproto.barcelona is growing. We have connections in France, Belgium, the Netherlands, Italy, and Germany through atproto.eu - the European community hub that already lists around 3 million European-language users and growing.
+In Barcelona, we are building our own community. Atproto.barcelona is growing. We have connections in France, Belgium, the Netherlands, Italy, and Germany through atproto.eu - the European community hub, which estimates around 2.8 million European-language accounts and is growing.
 
 The Mozilla Festival is coming to Barcelona at the end of October 2026, and there will be sessions on decentralized social media and open platforms. One session is called "Hints of a new open platform" - exactly the kind of conversation we want developers in this room to be part of.
 
@@ -52,7 +52,7 @@ You can choose where to host your account. There are several good options.
 
 Bluesky is the simplest - sign up and you have an account on their PDS. It just works.
 
-EuroSky is the European non-profit option. GDPR-compliant, hosted in the Netherlands, transparent and open. They also built mu.social, one of the most popular Atmosphere apps.
+EuroSky is the European non-profit option. GDPR-compliant, a Dutch non-profit, transparent and open. They also built mu.social, one of the most popular Atmosphere apps.
 
 BlackSky is a community-focused PDS and app view optimized for Black users and their communities. It shows that you can build for a specific audience on the same open network.
 

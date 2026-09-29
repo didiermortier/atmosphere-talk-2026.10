@@ -8,9 +8,7 @@ There is one more thing happening right now that makes the Atmosphere relevant b
 
 Countries around the world are starting to restrict social media for young people. Australia banned under-16s in December 2025. France banned under-15s in July 2026. The European Commission is proposing the EU KIDS Act, which would create a tiered system: under 13, parent-controlled accounts. Between 13 and 15, restricted accounts with limits on screen time and strangers. Full access only after 15.
 
-The intention is good. Traditional social media is designed to keep people scrolling. Algorithms optimise for engagement, not wellbeing. Parents are worried, schools are worried, governments are worried.
-
-But the way it is being implemented is the same old approach: force the platforms to verify everyone's age, collect more data, build more surveillance. The platforms themselves do not change. They just add age gates.
+The intention is good. Traditional social media is designed to keep people scrolling, and the algorithms optimise for engagement, not wellbeing. Parents, schools and governments are right to worry. But the way it is being implemented is the same old approach: force the platforms to verify everyone's age, collect more data, build more surveillance. The platforms themselves do not change. They just add an age gate.
 
 **The Atmosphere offers a different path**
 

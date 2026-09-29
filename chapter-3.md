@@ -1,4 +1,4 @@
-# Chapter 3 — The Ecosystem Today: Good & Bad
+# Chapter 3 — The Ecosystem Today: The Good, the Neutral, and the Bad
 
 **Target:** ~5 minutes
 
@@ -10,7 +10,7 @@ So where are we right now? The AT Protocol ecosystem in 2026 is vibrant, growing
 
 **A thriving app ecosystem**
 
-The Atmosphere now has hundreds of apps. The AT Store lists 277 curated apps across categories: social, developer tools, games, publishing, productivity, and more.
+The Atmosphere now has hundreds of apps. The AT Store lists close to 300 curated apps across categories: social, developer tools, games, publishing, productivity, and more.
 
 Bluesky is the biggest app, but it is far from the only one. Let me highlight some of the most interesting projects.
 
@@ -56,9 +56,9 @@ Europe is playing a major role in the Atmosphere. EuroSky, mu.social, PDS MOOver
 
 One thing the protocol cannot do yet is private posts. Everything on the AT Protocol is public by design. That is a feature for developers building on the firehose, but it is a limitation for users who want to share something privately.
 
-AT Protocol Spaces is now in alpha. This will add private posts, group conversations, and membership-based communities to the protocol. Toni Schneider, Bluesky's CEO, said: "Once we enable private data, it is like 10 or 100 times the number of use cases we can serve."
+AT Protocol Spaces is now in alpha. This will add private posts, group conversations, and membership-based communities to the protocol.
 
-If they figure this out, it changes everything. The protocol will support both public and private communication, all built on the same open infrastructure.
+I will come back to that in the last chapter, because it is the biggest thing the protocol team is working on right now.
 
 ## The Bad
 
@@ -78,7 +78,7 @@ This is both a problem and an opportunity. It means there is no platform tax. No
 
 **Discovery is still early**
 
-With 277 apps, finding the right one is not always easy. The AT Store helps, but there is no app store review process, no quality control, and no curation. Some apps are polished, some are rough. Users have to do the work of figuring out which apps are good.
+With close to 300 apps, finding the right one is not always easy. The AT Store helps, but there is no app store review process, no quality control, and no curation. Some apps are polished, some are rough. Users have to do the work of figuring out which apps are good.
 
 **W Social: a cautionary tale**
 
